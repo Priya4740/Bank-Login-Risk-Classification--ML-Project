@@ -1,0 +1,576 @@
+timestamp,user_id,ip_address,device_type,browser,failure_reason,auth_type,threat_level
+2025-07-23 00:10:24,6a214818-e78e-47fc-a728-226c70b18e37,148.6.34.231,Tablet,Edge,Account Locked,Token,10
+2025-12-09 12:43:10,6ad7f4f8-3b0b-45c8-b6aa-2cf6a10b2040,134.106.53.46,PC,Edge,None,Biometric,5
+2025-04-10 04:15:24,ec4aa120-d196-45af-98ca-4a13ec08d354,164.233.90.226,PC,Firefox,None,Password,10
+2026-02-13 02:22:46,71041fa0-b11c-4df8-ace3-59a60b13d613,205.62.126.123,PC,Chrome,None,Biometric,3
+2025-02-15 12:41:34,130c32b7-28e7-4d6c-99e0-2e17a439550e,157.225.10.229,PC,Safari,None,Password,9
+2025-08-20 09:08:25,9a447ec0-e7f4-425c-92a2-cbc07f3c095b,109.106.202.215,Tablet,Opera,None,Password,2
+2026-01-16 07:21:38,a84f1f5d-ebde-4eb6-b5b2-2a3fe2976a4c,63.76.41.139,Mobile,Safari,Account Locked,Token,7
+2025-11-10 23:46:18,fad8810f-9df1-47fb-b2dc-d9ec37d565e7,97.73.84.28,PC,Opera,None,Biometric,4
+2025-05-16 18:40:29,feec519a-a57b-497c-8600-c7ed8180f853,34.170.43.186,PC,Safari,None,Token,4
+2025-07-31 07:27:11,bc5bebc1-4a8e-4353-a002-512cc92cd503,208.102.7.22,Mobile,Safari,Token Expired,Token,8
+2025-05-31 03:16:25,9b430f47-4280-4c68-a55b-e989d1e4ac0e,61.5.6.68,Tablet,Firefox,None,Token,6
+2025-08-10 07:05:32,beb8cb36-e19c-4e98-93bd-c92c1257a7f2,130.177.205.11,Mobile,Opera,Token Expired,Token,4
+2025-04-15 06:50:47,e4d26f83-75aa-4bba-b6de-b63fd8ebf193,133.195.222.44,PC,Safari,Token Expired,Token,10
+2025-12-11 12:49:47,bf5f39a2-c263-4c8f-b7e3-a5ca18cf4cd6,163.152.121.212,PC,Safari,None,Token,1
+2025-11-11 15:51:24,901482e7-8923-44ce-a235-9897124dc9b7,217.7.6.30,PC,Firefox,Password Incorrect,Token,7
+2025-10-09 04:44:49,2d6d5313-8608-482d-8995-2eaf8d6cfed2,220.152.123.11,PC,Safari,Account Locked,Token,9
+2026-01-27 15:08:28,323ee166-1e59-45e9-bb85-26af029ce60a,198.123.6.86,PC,Edge,None,Token,8
+2025-11-26 01:03:41,0f262373-959d-42bb-a40a-430434a66398,70.215.55.40,Mobile,Safari,Account Locked,Token,8
+2025-11-08 15:21:53,8a3af8fe-7a02-4d08-b4a1-3b9444c5ee96,209.27.234.138,Tablet,Opera,Token Expired,Biometric,1
+2025-09-10 19:54:55,2ea928c5-f3e4-4bfa-9af1-fe35fc2e1197,195.107.224.207,Tablet,Firefox,None,Password,2
+2025-05-02 18:18:20,8b85042b-1096-4882-916b-3a4988514d9e,203.133.191.236,Mobile,Opera,None,Biometric,4
+2025-12-08 01:44:42,ac82e4b4-730c-4dfc-b7d2-197474d5f9df,81.188.88.185,Tablet,Chrome,Account Locked,Biometric,5
+2025-04-18 10:25:27,3275c48f-dbe2-4fa4-b7a6-9793e61b1d46,218.3.107.1,PC,Chrome,Token Expired,Token,1
+2025-12-09 12:46:54,6c56fe27-f6d5-4e66-ad15-85a232788460,124.190.34.108,PC,Edge,None,Biometric,8
+2025-11-09 13:08:06,d6061018-d670-45ab-860a-0404cafc7469,210.186.180.173,Tablet,Edge,None,Biometric,7
+2025-07-26 14:58:33,ce594642-543e-444c-bcf1-86860026e610,137.254.168.197,Tablet,Safari,None,Token,1
+2025-04-14 14:26:06,2a95fcde-a2d0-4311-a7ff-039406eac6eb,190.175.196.155,Mobile,Firefox,None,Password,7
+2025-03-29 10:36:04,4a7a1742-dcbe-4e4c-84d6-c94491c35357,70.73.220.240,Mobile,Safari,None,Token,10
+2026-02-05 00:53:17,da7b289d-f486-41d4-aab3-10883c3539cc,222.144.126.167,Mobile,Chrome,Account Locked,Password,3
+2025-03-11 18:12:24,ba183f96-9804-4450-b357-b7c07e7f9e92,137.13.222.207,Tablet,Firefox,Token Expired,Biometric,5
+2025-12-28 07:08:05,9c5bab9a-9dce-4de9-9dad-66a4ecfad211,133.40.149.84,Mobile,Edge,None,Biometric,10
+2025-02-21 20:10:52,833e8e06-9608-4c24-8e43-bc913170ec6e,42.20.46.202,PC,Edge,None,Token,9
+2025-03-28 10:14:48,09ba7920-a8b3-4491-96b2-fbefc0c63993,118.41.6.0,PC,Chrome,None,Password,0
+2025-05-04 22:17:43,961f0b8a-37fd-44ee-b690-2914ec8c811c,91.173.252.166,Tablet,Edge,Token Expired,Password,3
+2025-07-11 10:21:00,a6253753-9ebc-4d72-b044-0ac2d0faa718,6.178.237.139,Mobile,Firefox,None,Password,5
+2025-08-11 11:05:49,68546165-99bb-4a12-bff2-68ae47eb139f,133.217.233.71,Mobile,Chrome,Account Locked,Token,1
+2025-09-14 18:25:46,5dfeb546-6d17-4291-a91f-1f0adae20633,24.100.252.74,PC,Safari,None,Password,4
+2025-11-19 06:02:35,10dcac78-0a41-48f5-ab82-729b42ec3884,25.209.2.100,PC,Firefox,None,Password,4
+2025-05-01 22:41:00,0d5a1ef4-f187-4b88-be97-008c74520491,135.191.108.135,Tablet,Chrome,None,Password,2
+2025-05-19 12:39:25,97cf013f-4687-44de-8c34-bfac15a57df5,216.153.143.170,PC,Safari,None,Biometric,10
+2026-01-11 21:01:11,36f67e75-d4f1-4b9f-880a-17cf9ac61c6e,154.158.186.227,PC,Chrome,None,Token,0
+2025-11-14 09:17:05,2a978b0a-4b0c-45b4-bbc0-1e60ae636cc9,135.42.235.246,Tablet,Firefox,Account Locked,Password,6
+2025-05-15 12:03:24,8e1d534b-abb8-4588-be7e-9116798eb87a,19.221.122.173,Mobile,Opera,None,Password,1
+2025-06-27 10:20:19,697b5bf3-611e-4d5d-9cf9-f1eb422e9287,199.223.234.46,Mobile,Edge,None,Password,0
+2025-04-08 15:38:08,13fb692f-625e-4fa2-b4d4-838683babe19,7.206.30.152,Tablet,Opera,None,Token,5
+2025-08-12 07:14:51,1aaa4171-c31c-4668-9b75-0efdb9cabb54,83.165.161.199,Mobile,Firefox,None,Token,7
+2025-02-18 21:34:28,1e9fc094-c882-4126-ae0d-bf952d3e2cdc,8.136.178.69,Mobile,Safari,None,Token,5
+2025-11-01 23:51:38,60349267-92c6-4cff-b9a2-5b5e6b8eb482,83.246.63.213,PC,Firefox,None,Token,3
+2025-04-24 22:56:36,8ee7854f-56ee-40ef-8bfb-abd2f43393fe,112.10.99.122,PC,Chrome,None,Password,4
+2025-05-03 03:13:50,5f0552d8-061e-4673-b862-72e14796efd2,39.249.121.230,PC,Safari,Password Incorrect,Password,10
+2025-10-21 01:23:53,27a2a5e0-5c18-48c0-968a-ee26aeacb67f,208.164.85.243,Tablet,Safari,None,Password,1
+2025-04-11 15:20:59,21c66090-da1f-430c-b129-0fd6785014d5,212.4.101.135,Tablet,Safari,None,Biometric,0
+2025-06-16 08:20:09,94f2c464-c275-42f9-bcbd-e5866eec0109,220.222.183.241,Tablet,Chrome,Account Locked,Biometric,8
+2025-12-02 07:22:35,67947a12-b4ff-4990-a94c-68f71bba2fae,154.170.190.50,Tablet,Firefox,Password Incorrect,Password,8
+2026-02-06 00:26:06,e61475ca-8391-4e2d-b2c4-f3e963fd4f69,120.189.140.148,Tablet,Firefox,Password Incorrect,Token,9
+2025-03-12 17:32:35,4b4fd0e6-c041-4d8f-968e-38383a383d5b,210.226.189.47,Mobile,Safari,None,Token,9
+2025-06-27 14:14:14,f900f251-667b-4d00-a6c0-b847735f2f8e,220.82.38.74,Mobile,Edge,Account Locked,Biometric,4
+2025-10-19 21:41:31,fcb9b82b-d0b0-4dc0-992f-47c7781115eb,218.238.79.192,PC,Chrome,None,Password,9
+2025-06-02 09:44:27,7d7c567a-01c3-44b1-85b4-d72be9d41b52,15.117.90.80,Mobile,Firefox,None,Password,3
+2025-05-18 08:31:39,6aa775de-88c7-4c39-84bc-9d3f963340bd,170.99.239.40,PC,Firefox,Password Incorrect,Password,5
+2026-02-05 11:51:21,f759da31-0008-4480-94bb-e7403c207f26,124.14.218.94,Mobile,Edge,None,Token,8
+2025-11-24 09:12:54,b483a460-e47f-4761-825d-cbe4395fa4f3,219.40.200.227,Tablet,Safari,None,Biometric,8
+2025-02-14 04:01:51,52769b5e-b483-4ecb-93bf-1d45a8fdee68,192.193.124.237,PC,Chrome,None,Password,2
+2025-02-18 23:47:58,bf2a4574-1295-457f-9e21-509cf2ce68e4,180.164.87.157,Mobile,Edge,None,Biometric,3
+2025-12-28 04:40:25,a90aee28-3e66-4a7e-9f7f-e86d782e4313,197.74.118.120,PC,Chrome,None,Biometric,6
+2025-05-23 08:31:49,8811df85-26fe-4f2a-8188-7b4fdce86db9,156.207.142.125,Mobile,Opera,None,Biometric,2
+2025-12-18 00:42:47,20856c62-ace2-4141-8e2f-9544f90cb750,47.146.103.105,Tablet,Safari,None,Token,1
+2025-05-29 02:10:41,922811e2-e27c-4b2f-aa72-5ef773c43c06,168.118.40.9,Tablet,Firefox,None,Biometric,9
+2025-09-21 07:51:49,7eb2d3ee-8ca2-4f5d-879e-36e7ec588012,136.39.7.67,PC,Chrome,Account Locked,Token,6
+2025-05-15 17:27:25,f06aa53e-ebf8-4c8d-8786-0db5cfe34a98,41.90.211.238,PC,Firefox,None,Biometric,9
+2025-03-01 16:48:38,e5be12d9-6b24-4dc3-a193-03ca8c7e178e,187.170.118.5,Tablet,Edge,None,Token,10
+2025-07-27 00:39:52,4726cdb5-30bf-4249-91b4-ac5013a1709d,185.28.39.191,PC,Firefox,None,Biometric,8
+2025-05-21 10:11:30,0271808c-5a6a-4ec0-9c3f-b329706bead8,37.59.195.217,Tablet,Safari,None,Token,0
+2025-07-28 14:34:44,75ac6e76-ba43-4142-8640-25b6e9d4c4cd,42.53.7.64,Mobile,Opera,Password Incorrect,Biometric,3
+2025-12-04 17:13:41,3a1b7926-1edc-4ff5-bf7c-1b44d67db26d,188.143.165.148,PC,Chrome,Account Locked,Token,9
+2025-08-31 09:16:28,372f648c-77e8-4f5a-9a49-41d0f87ff044,96.177.230.13,PC,Chrome,Token Expired,Password,9
+2025-02-28 09:45:39,5ea88152-6b6e-4798-bc18-21f5e1a9bcb5,219.236.146.2,Tablet,Opera,Account Locked,Biometric,2
+2025-04-08 03:30:54,46979648-2757-4819-a47e-3811be668abf,125.109.190.63,Tablet,Safari,None,Biometric,1
+2025-06-03 05:39:28,2dcb70f7-9819-4337-a8d2-a818a531cdb3,213.166.39.92,Tablet,Opera,Password Incorrect,Token,1
+2025-10-09 18:43:25,77d6ebe3-aa4c-4ad8-87a8-9dd1679182e0,130.173.180.87,Mobile,Chrome,Password Incorrect,Biometric,3
+2025-10-01 03:04:32,4dda4dd3-ad10-4280-bddc-a4cab7b6c89d,202.225.203.213,Mobile,Opera,None,Biometric,8
+2025-09-22 20:55:45,a11d3ab1-768b-42c9-8127-88516218bc71,161.127.210.46,Tablet,Chrome,Token Expired,Biometric,7
+2025-12-12 01:37:04,8696f33f-15c8-4d1d-95aa-a24bfa853547,178.1.16.206,PC,Chrome,None,Token,10
+2025-09-06 21:24:02,fef3f0ca-4a88-460a-88ba-2f253854bb14,129.100.232.36,PC,Opera,None,Token,4
+2025-07-25 22:24:57,8cfb16e9-1c2e-46c7-ac9f-11a524f701dc,174.234.148.198,Tablet,Opera,None,Biometric,3
+2025-04-16 22:47:26,dd31254d-0559-4b8a-9ae1-99eb0e772a65,106.213.96.35,PC,Safari,Password Incorrect,Biometric,10
+2025-04-02 22:41:01,150e0eb0-95d8-45b2-a817-e97deeb9466e,111.30.139.4,PC,Edge,None,Token,5
+2025-10-19 01:36:48,b1d5c794-502f-4ff0-a32f-2ecd366f5684,214.33.192.167,Tablet,Safari,Account Locked,Biometric,1
+2026-01-20 16:21:35,dfc2be41-1961-4ef6-a3ba-f6a28936b52d,222.79.102.170,PC,Safari,None,Token,7
+2025-02-20 07:33:41,ddcc9f1d-93b6-4006-a9b3-fc2a5de8db5a,142.4.161.192,PC,Edge,None,Token,8
+2025-06-20 02:24:40,b6a7821c-56fe-42c7-bcee-9a97f6fb1067,160.140.208.241,PC,Edge,None,Password,4
+2025-05-02 14:15:02,af71fe15-bce9-4699-8d78-eeeb80d1f2f0,142.20.60.117,PC,Opera,None,Biometric,4
+2025-08-15 22:29:25,1b76b69b-4779-42a9-9f96-95d2cf64dd70,219.146.91.73,Tablet,Firefox,None,Password,4
+2025-06-08 20:00:58,b78ba0fd-ba1b-41ff-bca4-802b92d68502,190.176.103.55,PC,Chrome,None,Biometric,10
+2026-01-18 02:11:40,a5b6eb5f-8421-48bb-84df-b8db6061d97c,14.236.164.64,PC,Safari,None,Token,4
+2025-12-14 11:46:54,5f6ab594-f4b1-45fa-aa49-197fe7933b04,214.124.34.255,Mobile,Opera,None,Biometric,0
+2025-06-18 19:27:53,b285607b-d6da-4427-b626-9e43a07493b2,77.154.186.174,PC,Opera,Token Expired,Token,9
+2025-06-22 12:13:52,d289a2c4-e82f-4063-b59c-a3789fc2b283,114.20.229.114,Tablet,Opera,None,Biometric,0
+2025-09-02 13:34:06,e69d2a9e-899a-4757-aeb9-6d363468883a,132.218.13.108,PC,Edge,None,Token,1
+2025-07-26 13:49:09,bc9905bf-7491-40b1-ba68-1e9dc837a6d0,177.149.207.62,Tablet,Safari,None,Password,6
+2025-10-12 00:55:52,c5c4dca9-90c7-452a-916f-166ba6202a4f,194.15.177.70,Mobile,Chrome,None,Biometric,7
+2025-08-12 12:17:54,0e63d8c6-6bba-4d3d-a107-26a33f5c3521,213.4.56.101,Tablet,Safari,None,Biometric,4
+2025-03-18 04:17:46,7ea22265-3a47-4637-8021-b12b06e9f3be,152.199.185.121,Mobile,Opera,None,Token,7
+2025-05-31 04:08:42,3a29fc61-a937-46ab-8fc2-1f93418d1a2c,208.18.122.98,Tablet,Edge,Account Locked,Token,1
+2026-01-14 02:57:30,fa148422-1bcc-43bf-b056-b3b6adf7596b,150.34.226.121,PC,Firefox,None,Biometric,3
+2025-04-04 14:57:02,4efda30d-003b-475f-b67e-9f3d53e0a381,113.53.158.166,Tablet,Safari,None,Biometric,4
+2025-07-22 04:31:44,44d3ef3e-c4cf-4979-b10b-6140323cb170,215.138.98.102,Tablet,Chrome,None,Password,4
+2025-04-06 08:13:11,7cb53d04-ae29-48b8-8a71-7adf787a145c,152.26.147.81,PC,Safari,None,Password,1
+2025-09-16 19:43:17,b2809246-020b-4507-8828-afa940c4c1dc,60.48.154.125,Mobile,Opera,None,Token,8
+2025-05-02 22:55:03,5f9c504e-df1e-4d9a-8882-a528dbae531c,73.80.88.140,PC,Opera,Account Locked,Biometric,2
+2025-12-15 05:37:39,09179801-f8cb-4ede-9c71-6575ed812eb2,185.92.24.102,PC,Opera,None,Biometric,1
+2025-05-19 21:31:02,880a8830-71b7-436f-a007-601968b8e3f2,143.95.185.245,Mobile,Safari,None,Biometric,10
+2025-06-23 21:47:34,3fcce74a-5eed-427c-bad6-c3cfbb210784,132.13.32.20,Tablet,Edge,None,Password,10
+2025-04-23 18:29:05,23f70186-2931-41f9-a4fb-e67d5d177f85,167.179.158.46,Tablet,Chrome,None,Biometric,5
+2025-06-12 00:35:55,73df0cc5-5106-4b55-9260-8569e9f0b02f,204.36.52.13,Tablet,Chrome,Account Locked,Password,7
+2025-11-14 05:44:41,44963ff4-15f5-402d-b312-15cf5fa9c2e9,147.191.239.117,Tablet,Opera,Account Locked,Biometric,5
+2025-05-20 06:44:06,f27f4170-df7e-4a85-925d-a2c43a033bd1,17.220.79.117,Tablet,Chrome,None,Password,8
+2025-07-18 14:58:40,fa452d71-3075-4d8b-b33b-12a2ce53c137,207.211.220.76,Tablet,Safari,None,Password,0
+2025-05-16 17:52:54,04921f04-9181-4dad-b1b6-389bfebbad98,218.71.164.226,PC,Edge,Token Expired,Biometric,1
+2026-02-05 18:24:23,fc774f76-6d64-4dfc-a4c6-2f30e95a562b,107.234.238.197,Tablet,Edge,None,Token,1
+2025-07-29 20:36:41,5cb77761-dc05-4237-b37a-0eb6988a90c7,93.207.99.230,Tablet,Edge,None,Password,9
+2025-03-20 13:52:02,595fc816-f43b-4dcd-b518-e586c39cb5a0,110.221.214.218,Tablet,Firefox,Password Incorrect,Biometric,9
+2025-06-30 04:05:51,e495b86c-3a54-4a26-9a8d-be01089a1201,215.236.101.143,Mobile,Opera,None,Password,2
+2025-03-25 12:49:53,abbf1830-08fd-4702-8906-28c93f42ea07,173.232.171.34,PC,Safari,Account Locked,Token,0
+2025-10-19 08:52:01,7d175b9e-732d-4cb8-8e83-4faf40010465,204.70.194.87,Mobile,Firefox,None,Token,10
+2025-03-30 06:49:44,45d25e5b-5414-4f07-aac4-9349da4042e4,25.234.158.21,Mobile,Firefox,None,Biometric,10
+2025-07-17 05:21:09,1b2b74e5-8cd5-4021-b183-609c2ccb2961,137.112.57.103,Mobile,Firefox,Token Expired,Password,10
+2025-11-13 21:00:49,1f03e732-4bbf-491d-a23f-34a6f54012e5,172.119.28.204,PC,Safari,Password Incorrect,Password,5
+2025-05-11 14:30:57,22107de1-90ea-43c5-9d91-3bcf38757969,159.244.150.144,Tablet,Edge,None,Password,2
+2025-08-11 18:55:00,8d960719-1c46-4fa7-ab62-b5c149f0bf20,220.92.209.227,Tablet,Safari,None,Biometric,4
+2026-02-06 20:09:37,230a7f25-66c8-44ea-82cd-e029021e7abf,191.34.57.247,Mobile,Firefox,Account Locked,Password,10
+2025-11-11 09:12:36,58101691-3749-4a89-8e5d-ff9e4b56a34f,223.190.104.131,Mobile,Safari,None,Token,1
+2025-05-24 09:49:44,b1fa9439-fac7-4134-849f-28c5983de295,169.14.222.224,Mobile,Chrome,None,Token,2
+2025-06-23 12:30:31,90a21205-67f1-4020-86b2-2412f2215b54,92.233.61.126,Mobile,Opera,Token Expired,Token,0
+2025-12-31 18:45:51,ad819dec-aefa-4a34-a7ea-733816ebae22,206.235.45.77,PC,Chrome,None,Biometric,10
+2025-03-04 15:08:45,57a33967-115f-4eb1-b256-789b5467ad9b,210.2.91.122,PC,Edge,Account Locked,Password,1
+2025-08-15 18:39:27,757cb9e9-ad93-4686-9869-75035c621056,114.150.175.108,Mobile,Edge,None,Token,7
+2025-02-20 12:41:03,c30d4960-1fa9-4a92-9156-23c8223fd15f,147.39.44.96,Mobile,Safari,None,Biometric,8
+2026-01-31 13:01:43,b41669c1-4777-473b-9121-45df8e8d489b,134.63.31.143,Mobile,Safari,Token Expired,Token,8
+2025-06-30 23:18:23,51c19350-b295-49e5-a60a-5d5af81c43a3,91.63.8.81,Mobile,Firefox,Password Incorrect,Biometric,3
+2025-03-12 14:30:22,fde8b469-cee2-4934-9951-c7622a62acc6,191.255.138.192,Mobile,Edge,None,Biometric,4
+2025-10-22 17:41:14,ddfbb6aa-f7a0-4c93-94af-be5c2e022268,111.97.73.154,Tablet,Edge,None,Password,5
+2026-02-02 12:09:38,c534b6f4-b026-4d67-88b1-dfc26c4587a1,147.135.38.134,Mobile,Safari,None,Password,9
+2025-12-09 12:11:25,5a4ea72d-5690-42e4-89a1-b0019e1e3c60,132.135.248.121,PC,Firefox,Token Expired,Token,9
+2025-04-21 12:25:03,c49cadcb-f1b6-4b9e-ab2c-1f9ba59772c7,23.37.220.4,Mobile,Edge,Token Expired,Biometric,9
+2025-09-20 01:38:29,3e82f239-70d8-461e-8b7b-05728b7a9581,149.157.127.82,PC,Edge,None,Token,5
+2025-04-30 18:05:22,162dd083-ae6c-4be4-bb65-7a0bb3c88457,211.21.222.82,PC,Chrome,Account Locked,Token,6
+2025-04-03 16:40:14,0ad72202-a26e-4b2b-9ab5-d3445776cf78,215.92.172.29,Mobile,Opera,None,Token,2
+2026-01-19 15:57:49,cbf9f1b8-1d44-448d-a8cf-af8b768e277e,134.248.31.222,PC,Opera,None,Biometric,5
+2025-12-25 15:34:09,4e011cd7-f490-41f5-a1de-04d7603067b7,208.151.83.174,PC,Opera,None,Password,4
+2025-12-19 13:42:38,28366491-c03e-42f8-967c-4e4028a79da7,164.148.186.232,Tablet,Edge,None,Token,7
+2025-04-03 05:28:38,94953ff3-2d5c-4369-824c-1535832f3b97,154.251.2.21,PC,Chrome,None,Token,4
+2025-09-16 20:06:15,8a00064b-ca20-43b4-be70-c10db65ded28,55.133.97.138,PC,Opera,None,Password,5
+2025-02-26 22:26:09,0b23cfc3-9348-445e-9c95-1c2798ff73e3,205.53.246.235,Tablet,Chrome,Account Locked,Token,7
+2025-02-17 13:57:37,bce7babf-f818-4ccf-a922-2b16ba560ce8,147.172.80.211,Mobile,Opera,None,Token,8
+2025-11-04 01:49:44,4f8cbfba-6922-4d5b-be52-8e9161697327,220.11.85.158,Tablet,Firefox,None,Biometric,3
+2026-01-13 10:20:40,8bf070f3-f332-4e54-8c89-f478108f6877,198.176.204.111,Mobile,Chrome,None,Token,8
+2025-06-05 13:27:52,66b097b8-4f93-4d13-8d27-021ea7b76e73,102.45.162.239,Tablet,Safari,None,Password,9
+2025-05-01 08:34:45,0fbd0e40-eda0-41af-932e-1e34de7fd264,167.162.198.173,PC,Opera,None,Token,7
+2025-03-17 04:24:01,741c7c01-3d08-4b3f-88bc-179625b52c81,187.188.173.74,Tablet,Chrome,Token Expired,Token,2
+2025-03-25 21:33:34,bfcba6e7-b2aa-487b-8af1-78b045feeda2,47.177.88.183,Tablet,Opera,None,Password,9
+2025-06-25 23:35:53,6a131cc9-c1a7-47ef-9a2c-fe57df2a5a94,187.199.155.13,Tablet,Chrome,None,Token,0
+2025-09-07 16:24:39,e3883594-108c-4aff-ae44-eea074e41dbb,104.85.138.44,Mobile,Firefox,None,Password,6
+2025-03-20 00:25:49,6fdc516c-55b1-48fa-bee9-4b3aa001736f,62.173.194.240,Tablet,Firefox,None,Password,0
+2026-01-23 06:52:24,d262c6d1-b15e-4467-88f3-34d686c7fecd,131.249.152.191,Tablet,Chrome,Password Incorrect,Password,0
+2025-12-04 10:16:24,97b4e4a8-cee7-4fbd-be57-93a15a252bf5,197.254.183.111,PC,Firefox,None,Biometric,0
+2025-02-18 22:17:32,575ba877-bdda-49d4-b274-90a45f6db835,203.96.45.50,PC,Firefox,None,Biometric,8
+2025-04-15 17:08:06,8bc2a5f1-e5d8-4037-8e58-0dc5c16a215b,158.255.222.100,PC,Chrome,None,Token,1
+2025-05-26 18:32:33,ebf5af83-9609-4c62-a569-44796065a88c,69.83.204.1,Mobile,Opera,None,Password,2
+2025-10-31 07:27:12,b002eb52-7df6-41be-9494-8e6078c10bd3,198.177.62.123,PC,Firefox,None,Password,3
+2025-04-06 07:21:01,5e54b342-4232-474f-97fe-09c0d38d1f2d,140.195.168.215,Tablet,Chrome,None,Biometric,10
+2025-11-11 17:41:43,d2fe9baa-2c7b-4708-88c6-457be5d01660,216.224.239.243,Mobile,Edge,Token Expired,Token,10
+2025-06-10 09:56:59,9671fe9c-4684-448d-9db4-6ec215046ca4,4.110.173.203,Mobile,Chrome,None,Biometric,8
+2025-10-03 12:55:25,946261a8-538f-4098-951a-83bbc7147e5c,202.201.7.59,Mobile,Opera,None,Password,2
+2025-08-24 02:47:24,1d1ba73e-1871-418d-8053-3d0f04c15c4b,109.221.161.118,PC,Chrome,None,Biometric,5
+2025-08-06 07:26:18,ab8f4492-c808-411c-9903-5ccce2dcf045,140.143.205.87,Tablet,Opera,Token Expired,Biometric,6
+2025-12-30 18:59:29,70a06038-575a-4311-9543-792f6f327b4d,134.206.251.10,PC,Edge,Account Locked,Password,8
+2025-02-20 23:42:58,d8b6c443-e971-48da-b949-0372002b0022,164.166.26.192,Mobile,Chrome,Password Incorrect,Biometric,0
+2025-11-08 19:41:06,a16694c8-861b-4f4e-a36d-c9b631ba585a,15.86.8.16,PC,Edge,None,Password,4
+2025-03-26 13:37:13,c359c3ea-41d5-4a6c-94cd-81e0c6db9aee,194.205.215.124,Mobile,Opera,Password Incorrect,Password,7
+2025-02-24 11:46:57,a429bf6a-3a10-4ad7-aba0-f20eac6daf99,43.146.226.106,PC,Safari,Token Expired,Token,8
+2025-11-10 00:37:41,35996efa-e816-4134-946d-9040ec321217,170.132.34.77,Mobile,Opera,None,Biometric,3
+2025-07-18 15:58:31,c8e3c238-bc6b-4281-b867-2089167ec4db,145.49.19.33,Tablet,Safari,Account Locked,Token,9
+2025-10-04 14:09:04,3872aa89-17a3-4029-8c58-44732bd1e339,208.223.66.222,Tablet,Opera,None,Token,10
+2025-04-08 07:24:30,f1f3eace-5973-4c26-9dcc-7af2ae726eee,117.220.238.228,Tablet,Chrome,None,Biometric,0
+2025-08-01 23:10:15,edf15e3e-9910-4fa9-bd73-5882021241ac,214.55.133.84,Tablet,Safari,None,Token,10
+2026-01-19 05:38:28,ec45e8f9-bfbf-499c-adc0-474229cd6c4d,65.8.233.91,Mobile,Firefox,None,Biometric,2
+2025-02-28 09:13:44,33500456-4f88-4668-8aaf-2aa0eec189a3,204.78.84.84,Mobile,Opera,Account Locked,Biometric,9
+2025-04-12 12:04:17,270cbd86-d689-4c59-9510-1d48b4ee96d3,212.239.71.230,PC,Safari,Password Incorrect,Password,3
+2025-05-15 07:41:17,5622a70e-f566-4358-abb0-10e89774ff2e,213.79.35.96,Tablet,Chrome,None,Password,3
+2025-12-18 04:55:27,a98f3989-9ac6-4b71-811f-24fc236bef84,132.25.202.69,Tablet,Safari,Account Locked,Biometric,1
+2025-03-29 06:06:10,c8614756-ffb5-48d9-8027-b7f44658c134,198.131.2.157,Tablet,Edge,None,Password,9
+2025-09-26 00:02:30,dcdcdcef-e3e8-4929-9d63-cc5492df5616,214.160.115.44,Tablet,Edge,Account Locked,Password,9
+2025-03-28 12:57:56,7fbd8bbd-50fe-4027-930f-d81a936e773f,84.14.100.145,Mobile,Edge,Account Locked,Biometric,9
+2025-11-11 23:44:30,4978e028-58cd-4c88-97ea-cb36a187e028,111.198.200.154,Tablet,Safari,None,Biometric,0
+2025-04-13 19:26:56,3098792d-bd48-48f0-a466-5dc9bdaedda5,223.69.207.177,Mobile,Opera,None,Password,0
+2025-06-17 07:30:47,d7d74443-3c1a-41c2-938f-ee325bae2995,209.46.223.3,PC,Firefox,None,Password,4
+2025-03-15 23:22:55,a4eea2d6-5e62-459c-be8e-7e1dcc8dde5d,209.135.240.218,Tablet,Chrome,None,Biometric,3
+2025-08-15 21:51:53,8ff3ff4a-6043-45eb-bda8-f56b821ad4f5,25.148.239.216,Mobile,Chrome,Account Locked,Password,3
+2025-06-15 01:00:33,789b8233-7aaf-45cd-b475-aa7eaa47dc1c,44.65.70.211,Tablet,Edge,None,Password,8
+2025-03-04 17:04:13,b50ca0bb-e20d-4b95-8612-101e9b8ddf13,26.2.44.166,PC,Firefox,Token Expired,Biometric,3
+2025-11-30 21:36:52,a001c856-603d-43ce-9c41-ca74f094a565,153.65.199.16,Mobile,Edge,None,Biometric,7
+2025-05-01 05:29:48,42b5d778-3cb6-48a4-a648-7bb9b118fc61,90.64.217.255,Tablet,Chrome,None,Biometric,5
+2026-02-13 11:42:57,7cb92e72-97c2-4804-a8d4-47edbf613411,212.43.50.51,Mobile,Edge,Token Expired,Token,7
+2026-02-13 16:46:47,0fa26bee-4c71-4d50-9c3b-8e5de3e37087,222.188.174.215,PC,Edge,None,Password,6
+2025-12-08 17:28:21,cd71770d-2ce0-4bfb-9561-0537a6488e16,154.218.197.74,PC,Safari,None,Biometric,10
+2025-10-23 20:03:48,19a584c7-2bed-46e1-bbf7-8c4f49182a24,27.188.224.213,Tablet,Opera,None,Biometric,0
+2025-07-27 22:49:06,cab0dd60-ea67-4835-8fe1-730a6b427888,147.193.208.143,Tablet,Safari,None,Biometric,8
+2025-05-24 08:14:39,669d48f1-c3c7-4bc2-b7e8-e0bf4997079e,206.221.242.158,Tablet,Safari,None,Biometric,7
+2025-11-06 23:43:23,1e6c9c0c-98bf-4edf-b031-bbeeddf7e9be,184.67.103.207,Tablet,Chrome,Password Incorrect,Token,6
+2025-04-03 11:36:43,95674b8e-a16a-42b6-be1d-0566cec12b1e,219.130.185.129,Mobile,Firefox,Password Incorrect,Token,2
+2025-12-10 14:03:09,6e529d05-1ee5-4e65-a84f-63d58114b65f,211.241.239.126,Mobile,Safari,None,Biometric,3
+2025-05-23 16:11:52,287b6f34-a422-4719-9bea-7626d3e06d8f,222.80.239.188,Tablet,Chrome,None,Biometric,9
+2025-08-15 01:52:01,280c34ce-290a-4fc6-b769-7ab4d820d5dd,28.238.68.224,Mobile,Opera,Token Expired,Biometric,4
+2025-12-27 23:11:07,d375dab7-4692-472b-b765-dc47188c7dd7,126.32.127.35,Tablet,Firefox,None,Biometric,9
+2025-10-04 13:42:07,a2f43cc6-4e21-445c-a471-54df25c99ccc,28.25.64.91,PC,Chrome,Password Incorrect,Password,9
+2025-11-23 14:29:42,ab5dff11-4176-4e21-93eb-8f0f9310f9ca,161.127.119.223,Tablet,Opera,None,Token,3
+2025-12-21 00:32:07,c2318a39-f2bf-4453-997a-30305f2621f5,144.93.177.9,PC,Safari,None,Token,2
+2025-12-14 04:34:06,424e0ffa-ebea-4b96-b416-83b6a8010689,184.68.162.3,PC,Opera,None,Token,6
+2026-02-03 03:20:13,1117e0ef-32f2-4915-9b0d-c13b7f413c6b,191.145.91.182,Tablet,Chrome,Token Expired,Biometric,10
+2025-09-14 15:52:15,fdc9cd8f-62a1-4886-8dec-78979b070451,202.144.20.151,Tablet,Firefox,Account Locked,Password,0
+2025-12-13 03:37:55,46d50c80-87ef-487b-890b-09317e345db1,210.90.245.119,Mobile,Opera,None,Biometric,9
+2025-06-11 10:43:24,d97d4143-e829-4ce7-a487-6110e1815ef3,106.63.170.245,Tablet,Safari,None,Biometric,1
+2025-07-11 07:39:35,0e6d0e18-7d4f-4046-b9c0-dd0a2285b66d,30.236.208.64,PC,Opera,None,Token,10
+2025-06-14 05:11:12,66064da4-93fe-4016-b00e-06380a1f7f54,62.136.241.255,Tablet,Opera,Password Incorrect,Password,7
+2025-08-13 01:16:06,cfcded51-a463-49f4-b9a9-487338b2ad6c,170.126.134.3,PC,Firefox,None,Password,10
+2025-03-19 19:39:46,b2c7554c-b82a-4103-ba34-2b4bfaa669bb,195.95.214.229,Mobile,Chrome,Account Locked,Token,6
+2025-12-25 09:20:40,cd2dd7be-98ef-449b-b809-823bb4134065,131.32.19.230,Tablet,Firefox,Password Incorrect,Biometric,4
+2025-04-28 20:38:10,0077efed-bf75-4189-8598-8ddd0530a595,82.243.87.201,Mobile,Opera,None,Token,8
+2025-04-14 20:16:41,c37ec03f-ec35-498a-88ec-b9373e4aa8e7,163.58.3.60,PC,Opera,None,Biometric,1
+2025-11-07 07:17:18,cb87693e-9d58-457f-90bb-8cf4d457702c,137.97.171.40,Tablet,Chrome,None,Biometric,9
+2025-04-15 12:58:10,8b4d3d8e-f447-480a-b585-dba07bb03d9f,199.208.115.24,Tablet,Edge,None,Token,5
+2025-04-12 23:42:16,f17f9284-6350-4490-abca-c2c484fe8d43,137.81.33.250,PC,Chrome,None,Token,6
+2025-09-18 11:30:52,57eefa6c-2d6a-4dfc-a868-8d3bab2ac2fb,133.126.23.79,Mobile,Edge,None,Biometric,5
+2026-01-29 20:28:03,dbce3b0c-b3e0-4214-adce-02648416a17a,146.166.49.170,PC,Chrome,Token Expired,Password,4
+2025-09-08 12:41:57,6cb49ecd-29ef-4d28-995d-787a42c7ab01,154.246.164.24,Mobile,Chrome,None,Password,9
+2025-03-15 22:06:29,0f24c8f0-360f-48ad-b456-4aeea52ca506,222.13.212.82,PC,Firefox,None,Token,8
+2025-12-08 21:57:28,eb0befaa-d745-4203-a5af-e24d3402f8a3,72.68.66.93,Tablet,Edge,Account Locked,Token,5
+2025-11-07 07:04:37,f564c6dd-cc89-483a-8e36-4802aa9f4965,38.98.173.64,Mobile,Safari,None,Token,0
+2026-01-14 17:55:52,b300593d-9e65-4da2-a890-80a23ce84fef,95.94.232.217,Tablet,Opera,None,Password,8
+2026-01-31 09:10:21,3260745f-2275-466a-97ba-cc80c2edca1f,20.184.168.36,Tablet,Firefox,None,Token,5
+2025-09-18 16:27:54,54649ad1-63ec-4240-b767-da84975d3676,203.107.51.27,Mobile,Opera,None,Token,3
+2025-11-12 17:24:54,6ba261d0-e707-40f3-87fd-7170f7ccdf91,76.209.106.251,Tablet,Edge,None,Biometric,2
+2025-06-14 01:36:15,c7fa905d-c6bd-4ff7-86e9-4bbd1196c2d4,204.132.189.44,PC,Firefox,None,Password,4
+2025-06-30 08:01:02,5f28c232-7937-4e57-b1f4-c9699b5ebdb3,178.3.237.82,Mobile,Firefox,None,Biometric,2
+2026-01-30 21:39:07,0ca71b76-dc81-4ed2-87ba-baa09f30c563,154.234.12.118,Tablet,Safari,Account Locked,Token,0
+2025-08-19 21:55:30,bd0a107e-cb61-4f8d-9602-b174575e0c05,40.120.220.137,PC,Safari,Account Locked,Biometric,3
+2025-10-19 15:52:25,3ef0a00a-3fb8-43e9-aff0-322db4bc020e,164.128.35.39,Mobile,Chrome,None,Password,7
+2025-06-29 00:50:10,88ee98c8-acac-428f-a27c-43d0f2860ace,72.177.229.209,PC,Chrome,None,Biometric,3
+2025-12-30 12:17:09,f7f002e3-a3e6-406e-8a6b-90b573c40db5,212.76.82.223,Mobile,Edge,None,Biometric,8
+2025-03-31 21:57:48,3661a9e8-f892-47ef-8307-0189c0649c7f,126.152.160.52,Mobile,Opera,None,Token,2
+2025-10-13 11:44:39,04d7e7ec-4fbb-4476-a7d2-2aa49f78eced,38.79.24.96,Tablet,Chrome,Password Incorrect,Password,2
+2025-10-26 07:12:41,eeb332ab-62bc-4f49-9606-4be2113a84b2,124.96.15.54,Mobile,Edge,None,Token,1
+2025-05-18 15:42:23,9c0e15a4-30f2-4f39-b330-da752e3e9b91,205.22.79.112,PC,Opera,Password Incorrect,Password,0
+2025-05-13 00:00:53,3a8c25fe-cd23-4830-9a94-ff3012690721,88.38.164.97,Mobile,Chrome,None,Password,8
+2025-12-08 12:40:46,c13696e3-330e-4430-8383-8bd8f4c5def3,2.226.21.147,Mobile,Firefox,None,Token,5
+2025-04-29 22:53:18,7ac312f2-53e8-4f4a-9e08-40a993d9e3c4,115.20.132.243,Mobile,Chrome,None,Password,0
+2025-08-05 21:02:07,4146a45a-1ec2-4267-b90c-727c4463bf73,219.86.105.190,Mobile,Safari,None,Biometric,3
+2025-10-01 01:02:53,5a8d7263-1764-4f60-956a-b601acbe9b53,5.213.144.87,Tablet,Chrome,Password Incorrect,Token,8
+2025-09-30 04:21:29,1ed075bf-dcf1-415c-a0e6-484302ec8128,199.72.0.47,Mobile,Safari,Password Incorrect,Token,10
+2025-12-26 11:26:41,b92741ca-a767-495f-8082-833b32354e44,56.247.4.105,Mobile,Chrome,None,Password,4
+2025-05-26 05:22:21,b48e5cd1-a580-45bf-8257-bc784cd4fbb7,221.209.158.49,Mobile,Firefox,Token Expired,Token,6
+2025-06-05 00:55:38,aaef0778-e5e2-42ac-8b55-4eb344a9020d,199.146.158.75,PC,Firefox,Account Locked,Token,3
+2025-06-11 16:06:02,0dae85cc-d378-4a6d-96bd-64ace91ac95c,68.118.145.67,Mobile,Edge,None,Biometric,9
+2025-12-11 09:52:36,07b57b2d-06ab-4895-81db-81586220ab22,136.154.233.173,Mobile,Safari,Account Locked,Token,1
+2025-11-26 20:55:02,e9dccf94-296b-4098-adf7-80209601eb41,148.182.53.78,Mobile,Opera,None,Biometric,1
+2025-11-11 10:05:26,18921764-aadb-484a-bb7b-e758df093154,112.59.123.20,Mobile,Edge,Token Expired,Token,8
+2025-07-29 19:52:06,46109771-e413-4b03-93dc-bc53431f6f63,121.153.243.20,PC,Safari,None,Biometric,4
+2025-08-21 10:29:32,7dc1c267-eaa2-4425-b25d-2b215cda74cd,137.72.188.2,Mobile,Firefox,None,Biometric,0
+2026-02-01 03:14:45,4939553b-bec9-47ac-bf02-cc0294ea17ce,189.200.51.127,Tablet,Edge,None,Biometric,2
+2025-06-09 21:14:14,fda71b95-beb8-40b3-9fb9-eda968c2b4af,156.191.205.139,PC,Edge,None,Token,3
+2025-10-16 17:26:50,26c3a7af-1d07-4f4a-85db-4418c03eadd4,167.199.205.149,Tablet,Firefox,None,Token,8
+2025-06-08 17:33:17,1676fc4b-a838-4942-9678-f867bc23a522,174.52.21.176,Mobile,Safari,Account Locked,Password,5
+2025-06-25 23:54:34,e49ecb80-7f47-4be7-b011-8f33d06af490,176.172.151.84,PC,Opera,None,Biometric,8
+2025-07-20 07:10:15,e4b4cb93-3b6d-4637-a8d3-c22768cbceee,202.246.236.42,Mobile,Opera,None,Token,5
+2025-05-28 06:48:27,a18549e8-f8bd-41b3-a6ce-9f8433eda108,179.32.231.58,Tablet,Edge,None,Token,7
+2026-01-29 08:06:51,af2fef71-2fd5-4e79-b595-97d7cbaf216e,138.13.182.145,Mobile,Chrome,Token Expired,Password,8
+2025-10-19 06:34:46,823f9629-235b-4002-9664-e516986a3996,149.119.179.29,PC,Opera,Token Expired,Biometric,8
+2025-04-10 01:23:59,36629969-e238-4016-a71e-03979e1fc825,138.18.205.15,Mobile,Safari,None,Token,0
+2025-06-05 11:34:16,b003f4f7-1e4f-4c20-9462-142b79be631a,200.66.203.42,Tablet,Safari,Account Locked,Biometric,8
+2025-05-27 11:35:16,1bbd894f-7e1a-44a8-b312-9261484a4eaf,12.37.12.158,Tablet,Safari,Token Expired,Biometric,7
+2026-02-07 20:18:41,fa033829-58b3-4917-8521-fd6938ede1b5,204.87.194.255,Tablet,Chrome,None,Password,2
+2025-04-14 12:21:42,a92127c0-e70e-42ff-a593-b04b03cfe594,159.143.59.94,Tablet,Safari,Password Incorrect,Password,3
+2025-08-24 08:58:53,71a342fa-0315-4088-af23-3db8a8b1b9be,202.169.90.68,Mobile,Firefox,Token Expired,Password,4
+2025-06-06 08:33:22,57efb28c-92b3-46e2-83c8-f1243234db68,98.218.120.0,Mobile,Edge,Password Incorrect,Biometric,5
+2025-10-24 06:41:51,dc4c7433-8231-4042-831e-02015e0865bc,47.50.241.25,Mobile,Safari,Account Locked,Biometric,0
+2025-11-06 06:51:11,d9204f3c-f402-4fd3-bd4f-0778d9ce49b2,157.128.172.226,Mobile,Safari,None,Token,2
+2025-11-10 23:38:09,0d7533aa-35aa-43bf-b5a0-802c2420aadf,150.243.129.166,Tablet,Chrome,None,Biometric,10
+2025-07-09 14:41:04,a05497ce-38d4-49c2-ad8f-88fa43300a7c,50.255.136.149,Tablet,Firefox,Password Incorrect,Password,8
+2025-06-19 04:38:21,325e8023-ce28-4a4e-9230-b46f49f9585e,123.36.128.57,PC,Chrome,Token Expired,Password,10
+2025-10-04 02:56:07,de609e6f-e0a8-48b2-85d7-e79676e07a31,18.90.59.89,Tablet,Edge,None,Biometric,6
+2025-09-19 02:35:19,2fa83734-126b-4bab-8123-671e0cabc4f3,143.46.91.226,PC,Opera,None,Token,7
+2026-01-14 10:20:42,deb52308-5957-4c6e-96ec-8499546dbefa,221.240.107.47,PC,Safari,Password Incorrect,Biometric,8
+2026-02-08 06:18:19,72cdc5c5-3a47-44f0-bb5a-dc0dcac7de8d,139.204.224.43,PC,Edge,Password Incorrect,Token,7
+2025-06-23 02:14:59,fcb20b3c-c636-42ce-a51f-5c66034a3eff,137.111.72.120,PC,Chrome,None,Token,10
+2025-12-09 02:48:06,84a3f21b-d13b-4113-a4db-308e82088828,149.68.237.21,Tablet,Safari,None,Biometric,5
+2025-09-20 02:09:50,a356be85-461d-407a-8910-c1701cdaede2,186.178.35.42,Mobile,Edge,None,Password,8
+2025-12-20 22:56:39,d9fe12cf-7000-412d-9876-29dedf1a66d3,46.239.170.62,PC,Firefox,None,Password,10
+2025-12-18 03:25:30,fcbf5c37-82fa-40ea-8b0e-994f79744677,70.221.189.30,Mobile,Edge,None,Password,10
+2025-07-04 17:04:50,e3b73b0d-ae50-45f3-a44f-93819e8a6b10,77.219.215.26,PC,Safari,None,Biometric,2
+2025-04-17 23:44:54,a9169f4e-faa7-487c-9fb2-768db87b0ab1,116.55.160.107,PC,Opera,None,Token,10
+2025-08-21 15:55:42,cbdf8d4a-5660-4fa5-9559-085811f82bbc,150.231.2.17,Mobile,Firefox,Password Incorrect,Password,0
+2026-02-08 15:53:49,ac7e56df-7389-4e39-8ffa-cff36d6c36fc,218.226.32.83,Tablet,Chrome,None,Biometric,6
+2025-12-07 15:39:18,a2c3daf6-cb1b-4528-a7fa-8173f3401a90,195.51.33.106,PC,Chrome,Password Incorrect,Token,7
+2026-01-03 23:22:51,d277a4a6-cfea-4926-990f-76aa9d03904d,64.20.218.43,Mobile,Edge,None,Biometric,5
+2025-06-11 11:04:09,2fd965bc-04b9-49b6-a96d-7c9e22be80f9,207.227.54.179,Tablet,Safari,None,Biometric,7
+2025-07-24 02:49:25,90eb85bb-6c4c-4642-8c2c-17273822ec08,63.182.182.137,Tablet,Edge,Token Expired,Password,9
+2025-03-05 16:24:01,289cf9c2-e45c-458c-b353-b4806d58594d,159.31.41.18,Tablet,Firefox,Password Incorrect,Biometric,4
+2025-04-24 12:45:23,a3e877e8-14b7-4151-939e-5ee1c9fc5a27,16.4.231.241,PC,Firefox,None,Token,9
+2025-12-28 13:06:28,e3808480-5bc0-49b2-aa29-c42aaa99648d,21.50.66.252,Mobile,Safari,Password Incorrect,Token,9
+2025-05-24 07:09:34,3a45109d-61ac-418f-9df6-ed5c2e64800f,106.35.70.157,PC,Chrome,None,Token,0
+2025-07-27 06:08:03,928ab103-5c74-4e2c-b1c9-650a750cf514,204.51.14.130,PC,Chrome,None,Token,10
+2026-01-17 10:38:17,1c70d328-c78f-4f8a-bdac-6f9d32b308b9,194.243.250.72,PC,Firefox,Password Incorrect,Biometric,4
+2025-08-07 20:58:49,671fccd8-7023-4709-8961-4e1a2fd944ff,212.216.159.185,Tablet,Opera,Account Locked,Token,2
+2025-04-25 02:36:22,76ca9371-4964-4c0c-8dc6-af4c57e3bc31,198.153.103.176,Tablet,Chrome,Password Incorrect,Biometric,5
+2025-04-09 16:52:56,f38cd65e-dfd2-4237-a472-8992ed18de81,182.181.192.239,PC,Opera,Account Locked,Biometric,3
+2025-05-07 04:16:51,97e0d157-0a1d-440f-8330-4884ef85f79d,220.122.68.240,PC,Safari,None,Password,8
+2025-02-28 12:06:16,77d6d5b6-3b28-4666-92ca-9b3e8693dbd1,223.79.88.38,Tablet,Opera,None,Token,4
+2025-10-09 14:47:59,ece2fc68-d092-4ba4-b8d1-c0859659bfa3,104.39.199.238,PC,Firefox,None,Biometric,4
+2025-12-21 18:22:29,81c661d5-487f-4e51-a07d-0080ac09cd24,141.106.22.208,Mobile,Edge,None,Password,6
+2025-09-22 00:35:55,12a2a1f5-6737-460e-8161-86f3f93cd4b9,203.63.191.188,Tablet,Chrome,None,Password,3
+2025-10-28 22:53:03,e6738c63-cfd1-4d9f-b37b-5ae3805f4223,25.62.213.218,Mobile,Edge,Account Locked,Password,6
+2025-04-25 19:04:07,0f2c6d9d-29f3-490f-b55e-4444d16c1813,118.213.118.238,PC,Chrome,None,Biometric,2
+2025-12-21 10:55:23,44b766ca-adc3-49f0-9fb2-2cb975963a43,212.204.59.198,PC,Edge,Token Expired,Token,8
+2025-06-29 16:50:00,76457912-7318-4845-843d-27f874bdb693,22.31.50.238,Mobile,Safari,None,Password,1
+2025-08-10 13:46:31,8e57f506-1f34-4df3-8eab-e286982c355f,200.214.224.4,Tablet,Edge,Token Expired,Password,10
+2025-03-08 15:43:52,252df55e-1fc1-4267-a910-597b7fbd1abb,223.179.159.194,PC,Firefox,None,Password,8
+2025-03-11 05:04:43,921001a4-56f8-46c1-b16a-b0cc819d6c4c,70.51.183.247,PC,Opera,Token Expired,Biometric,10
+2025-08-26 00:57:53,02083c6d-8ec9-402d-8e7c-38025aedfb8b,2.18.95.3,Mobile,Firefox,None,Biometric,6
+2025-10-28 05:07:29,c6d3f60a-4ceb-44b4-b794-fd1d25789299,156.111.33.54,PC,Edge,None,Biometric,10
+2025-07-17 16:57:56,79744731-29b7-44f6-a1ec-668c5c79832d,89.59.223.243,PC,Firefox,None,Biometric,8
+2026-01-04 22:05:17,48c48fc2-67fd-4039-b22c-106888f15e69,151.241.196.238,PC,Edge,None,Password,5
+2025-10-30 00:35:04,0e3a981f-fe5c-415f-a766-51af5437c58c,221.55.236.0,PC,Safari,Token Expired,Biometric,6
+2025-06-04 18:01:40,102a3c9c-d385-40ec-870c-e48cbe3363ae,119.245.49.154,Mobile,Safari,Password Incorrect,Token,0
+2025-10-31 12:52:24,89d44c7b-9e0a-4b2c-b4e4-7a8989f37305,129.240.27.84,Mobile,Opera,None,Biometric,5
+2026-01-10 18:54:36,e8d0a580-c464-443f-b74b-314f3ca30e98,157.16.222.86,PC,Firefox,None,Password,0
+2025-10-29 20:00:08,908508d1-683f-41c8-af9c-13f4e6f9557e,180.158.56.236,PC,Safari,Password Incorrect,Biometric,3
+2025-06-30 11:00:49,66f412d8-52c3-4a97-aea7-b95fe558119e,211.80.105.238,PC,Safari,Password Incorrect,Password,9
+2025-06-13 09:05:39,263c494e-aa5d-4177-b470-382aa933b06c,215.124.46.2,Tablet,Firefox,None,Token,8
+2025-04-09 15:16:43,edcb0390-850a-4e89-9077-4d81cbb6f130,142.57.238.219,Mobile,Safari,None,Token,4
+2025-12-16 11:39:39,44adae5a-1b96-4fae-b542-9ca01df76f8d,163.188.51.167,Mobile,Safari,None,Token,5
+2025-12-02 08:06:29,be2c3663-3fd8-4fe9-9487-c7906494069c,200.249.89.124,Tablet,Safari,None,Biometric,10
+2025-06-26 01:13:17,76d29fbc-d66e-474f-aead-b9d5f6a00df7,66.205.176.180,Mobile,Safari,Password Incorrect,Biometric,9
+2025-07-13 08:24:10,275a5abc-ff6d-4727-8211-555bd5cab19c,107.60.0.120,Mobile,Safari,Password Incorrect,Biometric,6
+2025-04-06 13:54:22,d2d45fbc-615d-468b-9437-0eac87b454e6,210.170.198.71,Mobile,Chrome,None,Password,8
+2025-08-23 23:01:47,8726188f-eb03-4891-ac62-6ee609c368a2,223.212.241.88,Tablet,Firefox,Token Expired,Token,7
+2025-06-16 20:38:25,878406b9-22f6-4035-954e-8f3ec0533e6a,167.208.253.8,Tablet,Edge,None,Token,7
+2026-01-05 02:22:03,e0e39bb8-279e-4e7e-a847-7c139d494f0f,198.30.18.153,PC,Firefox,Token Expired,Password,1
+2025-07-06 14:02:19,e673c28f-ce5f-4bec-a374-ee8c0929d99a,42.79.185.172,Tablet,Firefox,None,Token,0
+2026-01-07 06:33:41,03a638b1-ee07-418d-9d3b-1630486ab45d,161.175.205.252,PC,Chrome,None,Password,7
+2025-06-20 01:33:33,a3c38b73-2893-42a0-8177-13a176bb645a,199.66.99.177,Tablet,Edge,Account Locked,Password,0
+2025-04-09 23:09:36,748722fd-e729-42d6-a0d2-1026e28843eb,151.45.156.138,Mobile,Edge,None,Biometric,5
+2025-12-27 09:57:08,f374a87f-10a5-4241-80bd-e3103115299c,149.89.45.192,Tablet,Firefox,None,Token,7
+2025-08-30 18:21:33,b46cefbe-d8aa-4ccc-873a-45788c25502b,206.77.88.45,Mobile,Chrome,None,Password,9
+2025-12-18 21:21:14,88595573-735f-4ef5-baff-61af718866e1,108.213.57.183,PC,Opera,None,Token,3
+2025-10-03 05:26:37,3742c19a-074d-4981-a3d9-e9d8cc440bec,160.212.60.20,PC,Edge,Password Incorrect,Biometric,9
+2025-06-15 17:04:50,508cf965-4627-4895-a80b-886e0a25091f,210.192.7.188,Mobile,Chrome,None,Biometric,5
+2025-02-18 11:02:01,2182b338-6f63-4b78-9634-b3b198a9c0f9,205.228.164.185,Tablet,Firefox,None,Biometric,8
+2025-06-17 17:44:30,dcf6c73e-0598-4871-b4bb-2497eb352e16,203.3.107.167,PC,Chrome,Account Locked,Token,0
+2025-02-15 14:52:17,f4e957cc-712f-4c25-b958-1a3e9e215c20,220.82.253.106,Mobile,Firefox,Account Locked,Biometric,5
+2025-06-27 06:48:01,643e9cc0-825e-421b-a118-a98e26191962,213.88.0.8,Mobile,Edge,None,Token,3
+2025-09-08 03:34:42,bfef7655-3ac3-48e3-bd5d-686340eef925,91.110.186.58,Mobile,Chrome,None,Biometric,0
+2026-01-11 00:13:06,f4802f45-0bcd-4127-8421-8b1d9b4a85ce,199.229.116.114,Tablet,Opera,None,Token,6
+2025-05-17 15:07:09,777789fb-55b8-4209-8bd6-87f23bb8b63b,197.10.230.15,PC,Opera,None,Token,1
+2026-01-27 18:56:46,b9ddb98e-248f-47ed-97c6-557a7d1375bb,153.165.127.222,PC,Safari,None,Password,10
+2025-05-27 14:28:56,33153270-ca91-45bd-964e-59976b412eee,133.132.153.57,Mobile,Firefox,None,Biometric,1
+2025-07-02 08:26:24,aa82eebb-7fc4-413a-af69-25a7539a923f,169.101.196.169,Mobile,Firefox,Account Locked,Password,7
+2025-11-21 06:19:11,89244e2c-717f-4012-a96e-af18ebadd8e0,96.171.237.92,Tablet,Safari,None,Password,5
+2025-04-26 04:25:03,b8b60e92-51f0-4e81-95cb-1f0bcd915f72,163.154.219.224,PC,Edge,None,Password,7
+2026-01-10 09:17:21,87b02e1f-a3c2-47ab-932c-2c2999de49ff,181.148.186.161,Tablet,Opera,Password Incorrect,Biometric,7
+2025-11-17 04:58:36,245a0780-4dd7-49df-8483-80a6889ecb2a,200.57.37.203,Mobile,Chrome,Token Expired,Password,4
+2025-10-04 21:44:12,e8742594-39e4-4647-beee-f24dca8c68bf,207.31.12.175,Tablet,Safari,None,Token,2
+2025-05-06 20:24:16,ce9be9c4-1f63-4606-a4e6-0ec420003834,3.230.202.27,PC,Safari,Account Locked,Biometric,5
+2025-03-21 17:28:01,b42e9433-1760-4424-bcc5-e0c744d38682,220.105.215.87,Mobile,Opera,None,Biometric,1
+2025-11-10 04:54:09,be0abde3-17f4-4f03-8fcb-9fa1629039f8,201.249.163.175,Tablet,Edge,Account Locked,Token,5
+2025-08-01 11:00:31,44a1970f-1436-4dc1-92dc-5cea25c4bd75,66.112.235.154,PC,Chrome,None,Token,3
+2025-09-28 14:07:23,963be366-90a0-44fb-b466-90c08137816d,35.42.212.164,PC,Safari,Token Expired,Password,9
+2025-10-13 21:21:34,7ae3cb05-3948-4d9c-bac5-88fb883245de,85.127.163.26,Tablet,Safari,None,Biometric,4
+2025-05-23 16:19:25,5335d6e3-5a4f-48ab-a0cc-546eb1b6e208,67.203.55.43,PC,Safari,Account Locked,Password,5
+2025-02-14 12:14:25,28f81278-2a78-42c9-8764-2d29fc558672,171.147.211.85,PC,Firefox,Token Expired,Token,9
+2025-07-20 23:22:20,c84c980f-d8aa-47d6-9a0b-db7fe2632210,205.40.8.175,PC,Firefox,None,Password,1
+2025-10-30 02:48:35,10a37875-f976-4846-acb8-3edb7f726b2e,30.203.190.225,PC,Chrome,Account Locked,Biometric,2
+2025-07-10 20:37:54,1636ce29-2483-4e0d-ab9b-cf1cbe5f5091,217.127.67.98,PC,Chrome,None,Password,2
+2025-08-26 00:04:11,14010f07-44a6-4206-920e-5844d122952b,5.214.128.61,Mobile,Opera,Password Incorrect,Biometric,6
+2025-09-23 05:43:12,3375cf17-5832-4d9d-996d-3f0e1b77259f,195.85.248.98,Mobile,Firefox,Account Locked,Password,5
+2025-12-28 09:12:38,2bd75fee-3037-4092-bba2-b5f477291ad1,157.166.153.29,PC,Opera,None,Token,1
+2025-12-05 16:14:27,3b6a22d9-b078-46c6-8747-ff0b2f173bd0,138.55.75.55,PC,Edge,None,Token,2
+2025-10-23 03:59:06,5d212023-3952-489f-bd50-f782f836bbda,59.2.143.71,Tablet,Edge,Password Incorrect,Password,1
+2025-09-13 09:48:50,1e0c8f5a-35bd-4331-9f66-393d6c3e5e77,73.228.238.205,Mobile,Chrome,None,Password,4
+2025-09-15 06:17:42,4a52f600-1d12-4ede-b420-c913e96251fe,146.207.155.247,Mobile,Edge,None,Password,7
+2025-06-07 20:04:10,3c913acc-122a-4723-bad1-618671ab6527,141.134.154.125,Tablet,Firefox,None,Token,4
+2026-02-12 07:19:53,210e7e95-fe09-4e35-b129-2f8d6fde0758,133.212.165.68,Tablet,Firefox,None,Token,3
+2025-11-10 07:22:15,d4286bdb-1e6c-41f3-a992-6c55a70baf2b,177.189.239.173,Tablet,Firefox,None,Password,4
+2025-07-26 20:36:03,6d6827ba-5ab0-48e8-b2d1-881a33275d80,204.66.241.6,Tablet,Safari,None,Biometric,1
+2025-08-20 15:39:29,d5ed4f38-5cd2-45da-b426-dfebdcd00c8c,153.206.0.168,Tablet,Chrome,None,Biometric,1
+2025-04-26 20:19:16,0e54c153-d881-415f-9ab6-51d997636c2d,189.18.212.89,Tablet,Chrome,None,Biometric,1
+2025-12-23 17:44:03,4be66ed0-a780-4ca1-9677-58ed73c6a513,82.46.205.159,Tablet,Edge,None,Token,5
+2025-03-28 10:47:19,649dba66-3d12-4298-a126-f89fe05c1f09,214.176.47.116,Mobile,Firefox,None,Biometric,0
+2025-05-29 02:28:48,bbff71b8-4ffc-4ec2-8a3a-cfc17197921a,190.183.240.32,Mobile,Firefox,None,Token,6
+2025-12-12 11:19:21,26c699ed-c770-4e8c-9cb1-bb9d3e0dc477,160.156.170.52,Tablet,Opera,Account Locked,Biometric,10
+2025-07-08 00:48:25,c37d3d43-9b5d-4608-853a-0d3f834187cc,214.190.197.64,PC,Chrome,Password Incorrect,Password,3
+2025-09-23 21:21:20,b205eb73-9958-44b0-a853-04b16b96c02a,194.65.209.236,Mobile,Opera,Account Locked,Biometric,7
+2025-11-20 12:04:31,321f7d29-cfb3-4d7d-9503-69b20369f717,183.35.163.120,Mobile,Opera,None,Token,3
+2025-02-18 19:53:21,5e448872-cb34-4a87-a461-9e532b90f821,161.235.38.132,Mobile,Edge,None,Password,2
+2026-01-17 04:31:39,b1557b6e-6452-4b2d-99cb-bc39a0addf07,84.139.14.174,PC,Chrome,Token Expired,Token,0
+2025-06-16 20:58:33,7e33f678-9b43-42c5-8d5b-daa6f1b03aea,215.24.82.220,Mobile,Safari,None,Biometric,2
+2025-12-09 00:52:45,60f6bdd9-b625-4ea0-8e03-10e09e30ce56,198.239.22.234,Mobile,Firefox,Password Incorrect,Token,1
+2025-04-30 03:08:47,4b17c1bb-09ab-438c-9875-6c1cd285b7bc,209.113.217.17,PC,Opera,None,Biometric,10
+2025-06-07 16:44:34,a4ef416d-a20d-421c-8da9-474cb11b3ba5,213.83.141.142,PC,Chrome,Account Locked,Password,3
+2025-07-18 06:38:54,9ce24c4e-a692-4d95-b46d-3bb15e3183af,61.18.232.21,Tablet,Edge,None,Token,6
+2025-10-05 17:57:30,3eaaf448-cc3d-4144-a20a-e691b6f08dc9,152.227.80.143,PC,Chrome,None,Token,9
+2025-05-22 07:58:05,194344fd-cc84-4bda-8c81-84f2a9071984,202.43.226.92,Mobile,Firefox,None,Biometric,4
+2025-04-26 00:00:18,84711036-d3e1-4e13-a708-0d012f0254f2,203.106.166.236,Tablet,Opera,None,Token,0
+2025-04-20 20:14:33,8e538079-6ad7-4d36-973c-86b1cfca8a41,45.87.60.236,Mobile,Edge,Token Expired,Token,10
+2025-12-10 20:44:03,f198f9fd-b573-412d-bfe7-4e45af7da08e,200.14.36.43,Tablet,Safari,None,Biometric,3
+2025-09-02 02:45:47,0b03c84c-18d6-4ff3-8777-56b37c83c76d,168.216.232.168,PC,Edge,Password Incorrect,Password,0
+2025-12-28 13:41:26,a2a6b9c5-3e17-473b-a945-73fce87aee72,217.9.198.133,PC,Chrome,None,Biometric,10
+2025-07-08 18:48:48,7e74c399-610a-4cbd-b246-80fbedb06d92,209.27.41.159,Mobile,Opera,Token Expired,Token,0
+2025-09-16 21:47:18,50338a1d-0872-4d93-9332-cf3c98a4e6ae,58.149.110.247,PC,Opera,None,Token,3
+2025-11-26 17:00:41,4d6f4f92-239e-4011-b927-260420a89f37,207.109.171.171,Tablet,Chrome,Token Expired,Biometric,8
+2025-08-04 07:43:11,819668f3-f687-44e7-b01a-323e6a45fbc8,185.23.107.164,Tablet,Edge,None,Password,9
+2025-12-20 07:14:19,6e2f5c37-c4fc-41be-8b5f-64b1c41d042b,213.35.143.126,Tablet,Chrome,None,Biometric,9
+2025-03-02 10:52:24,5cbe4724-d5dc-4362-9269-b7fde4a71d27,51.42.248.238,Mobile,Safari,None,Password,7
+2025-09-30 17:11:29,8cab7955-5187-4e40-afbb-20af3003aa66,219.122.50.44,Tablet,Safari,None,Password,1
+2025-12-30 12:46:49,875169b8-2c3c-4968-b42a-1a0839356d55,63.142.53.200,Mobile,Chrome,Password Incorrect,Biometric,5
+2025-06-17 01:37:35,237835d9-58b0-4d20-8acb-19c0f615fbd4,112.60.178.111,Mobile,Edge,Password Incorrect,Token,3
+2025-05-27 15:44:48,29d82c1f-d349-4116-8099-5db3a993ee65,192.160.174.69,PC,Edge,Password Incorrect,Biometric,6
+2025-12-29 00:47:31,ece879fa-d75b-4cc6-8c86-a54e5528aab2,162.66.90.57,PC,Opera,None,Password,1
+2025-04-12 08:32:54,9bf5560c-e91f-49ec-9cc1-a7a86fccccb9,205.28.83.99,Tablet,Safari,Password Incorrect,Token,10
+2026-02-07 13:38:51,af3b6316-f30d-4632-839a-1bea2e04656e,168.83.48.127,Tablet,Safari,None,Token,9
+2025-05-16 12:08:42,5920bd2d-b6ae-4505-a16a-91999dd5fd03,154.170.167.99,Mobile,Chrome,Account Locked,Password,1
+2025-06-04 19:10:11,b5ba51e8-c2f8-425b-9cb5-c71d6f51f95c,209.147.82.140,PC,Firefox,None,Biometric,3
+2026-01-21 19:43:58,d3262e66-2f6d-4668-b3fd-27f5b848af96,78.167.147.224,Tablet,Edge,Account Locked,Token,2
+2025-12-15 17:48:08,2ffff37c-3262-4dea-ac15-47f5d1921d73,137.99.97.62,PC,Firefox,None,Biometric,0
+2026-01-24 23:32:04,79e693e6-51c1-42bc-827a-bb1c1b5374ff,121.85.172.102,Mobile,Firefox,None,Token,3
+2025-11-02 12:59:51,4cc78948-be7c-4943-adbe-244e32291c8e,83.135.234.28,PC,Opera,Token Expired,Biometric,8
+2025-07-22 17:51:51,3bc95774-1134-43db-8101-7949f5f982d5,92.145.215.15,Mobile,Chrome,None,Password,2
+2025-05-05 16:06:04,1b7cf95e-66e5-48b1-841d-0ba641b92bc3,206.134.39.245,Mobile,Firefox,Token Expired,Token,5
+2025-04-26 14:07:07,64c41e37-b401-4799-91c1-97bc5e8a8700,164.84.64.38,PC,Safari,None,Biometric,7
+2025-05-16 00:28:25,65298a9b-2b09-4aaf-8b97-51e7f28e7e61,215.84.96.250,Tablet,Opera,Account Locked,Biometric,7
+2025-04-14 03:20:25,6d260c94-080b-467e-9e26-8c018fa74a45,48.153.109.13,Tablet,Opera,Password Incorrect,Biometric,0
+2025-07-09 02:11:45,6b747266-82dc-4fa4-a2fc-57809f84c31e,139.14.223.149,Tablet,Opera,None,Biometric,3
+2025-03-05 20:16:48,cb4206ee-0ecf-425b-96fa-04886448d392,214.188.183.82,Mobile,Chrome,Token Expired,Biometric,7
+2025-11-01 16:02:02,0a90a62b-0022-4cf9-9b85-235ac6231db9,176.185.211.151,Mobile,Safari,None,Token,6
+2025-08-24 13:49:42,09d8ea1e-ec45-4757-baea-83039713589e,9.207.240.123,Tablet,Opera,Token Expired,Biometric,8
+2025-02-24 12:23:00,11b5c906-ff23-4902-bd82-14dc283e5c5a,5.9.143.18,PC,Chrome,Account Locked,Biometric,2
+2025-10-22 07:57:31,1a62c879-0425-4ca6-96dd-0d28b98ccc80,223.78.226.243,Mobile,Firefox,None,Token,8
+2025-03-12 16:40:59,21e29967-fd32-414b-820e-6dbb2a9dabbe,129.202.239.3,Mobile,Safari,None,Biometric,5
+2025-09-05 15:43:58,8bdf5f00-df7d-421b-a3db-bdd5b1a8e2f5,180.43.159.239,PC,Edge,None,Password,3
+2025-02-18 03:07:34,d28e86f5-c531-4ea6-bf7a-a18f1974e888,204.14.5.184,Tablet,Opera,None,Token,7
+2025-05-15 12:39:25,4586560c-1fb5-4505-a8e4-1855a141ab67,203.64.235.231,Tablet,Edge,Password Incorrect,Biometric,8
+2026-01-14 14:58:50,721ec051-9bc7-4ca2-ab65-ba90bc6af86d,135.204.210.39,Mobile,Firefox,Password Incorrect,Biometric,9
+2025-11-06 02:16:36,10592577-78cc-4694-858a-9ba3660b526c,68.29.57.255,Mobile,Chrome,None,Biometric,0
+2025-07-22 11:47:30,99b425e6-28a5-4858-adab-31fd58a61478,128.182.103.233,Tablet,Safari,None,Password,10
+2025-03-05 13:06:03,f934baeb-e656-4f58-9e55-ca2a333ae8de,162.151.168.128,Tablet,Opera,None,Token,6
+2025-06-27 13:40:16,5546907b-4b03-413e-ad08-7dc5ec54eada,18.69.52.13,Tablet,Firefox,None,Biometric,6
+2025-06-05 18:35:49,925831a2-a622-46d8-b3b6-8d9795770c55,202.160.106.80,Mobile,Chrome,Token Expired,Token,1
+2025-03-09 00:51:13,714b998e-8b1d-4dc5-94ed-70f379ddd501,21.46.252.189,PC,Firefox,None,Token,5
+2025-02-21 22:10:50,d05e15b3-2e0f-47d8-b7d8-02bdf992bace,128.222.168.118,Mobile,Chrome,Token Expired,Password,5
+2025-10-13 12:14:56,74378047-1b18-4a82-b340-b57f487d0beb,200.193.205.48,Mobile,Edge,None,Biometric,8
+2025-03-21 17:45:09,838a532c-618b-435c-8ed9-6edb44561e6a,71.153.226.155,PC,Opera,None,Biometric,9
+2025-05-25 00:25:49,31117bc2-a4e3-49a6-a628-7bff6ed3fe94,129.236.229.81,Mobile,Chrome,None,Token,4
+2025-10-29 14:40:42,edd0d763-6651-45a9-a3ec-db4f4544cbb7,170.238.104.165,Tablet,Chrome,None,Token,1
+2026-01-21 21:53:32,f7659ee8-97a9-40bc-8365-297d6405eb4b,169.77.210.191,Mobile,Edge,None,Token,2
+2025-06-19 05:17:53,b015b433-39b5-461a-9345-4a097ffe8c34,202.146.5.36,Mobile,Safari,None,Password,2
+2026-02-01 22:36:49,95c34451-6e92-408b-b68f-e01d99b78d1b,192.115.127.13,Tablet,Chrome,None,Biometric,2
+2025-10-26 08:37:21,5811f79a-56cb-40c2-ac5f-aad44ea3ad1b,220.159.178.134,PC,Safari,Token Expired,Password,10
+2025-11-14 06:37:57,085443d3-816f-4929-b896-31ff9cf01193,220.9.147.22,Mobile,Firefox,Password Incorrect,Password,10
+2025-04-28 03:35:46,e47b74a1-afd9-4b08-aaf9-2d31c1a54709,223.26.68.165,Mobile,Chrome,None,Biometric,6
+2026-01-26 22:17:38,80b91d39-7f84-44cd-8842-e53bc0e28a5a,209.95.242.58,PC,Firefox,None,Biometric,1
+2025-04-12 08:32:20,bfa0879a-7afc-4af3-a2cd-181390f72154,199.237.49.109,Tablet,Chrome,Account Locked,Password,8
+2026-02-04 08:30:18,68e1ec02-7dde-47bb-8eed-40a2e407297a,192.200.229.122,Tablet,Opera,None,Password,4
+2025-12-30 04:35:48,7c9c0b31-6735-459f-b577-a2966462af1b,151.122.180.252,Tablet,Safari,Password Incorrect,Password,5
+2025-03-27 17:29:34,4d3c70a2-6f38-4b0a-b7b0-68047224beab,49.111.206.40,PC,Edge,Password Incorrect,Biometric,7
+2025-12-28 21:35:49,96d11fa0-dc26-49ec-a2c9-038d95384a3c,134.166.124.255,PC,Opera,None,Password,4
+2025-12-26 13:14:28,9a79f978-2379-4f1d-b78e-25cb0e6b69e5,163.9.19.6,Tablet,Opera,None,Biometric,1
+2025-09-11 15:26:22,df68bfd0-9914-482b-8248-2a0c26483703,162.235.222.224,Mobile,Edge,Account Locked,Token,6
+2026-01-23 14:19:02,7fa12ce0-2bf5-401d-bf8a-2418ce22b3ee,153.229.139.237,Mobile,Chrome,None,Biometric,4
+2025-05-27 12:41:54,35ad7376-0379-4080-b4c9-a0ca2da1e00e,40.116.113.85,Tablet,Edge,Token Expired,Password,0
+2025-11-03 03:22:55,f14a22ea-df14-45fd-8d8d-dc36dc2ffc86,216.8.30.123,Mobile,Chrome,Password Incorrect,Token,5
+2025-12-21 23:21:49,de26083b-5066-49ae-aa5b-f236d8c8abc8,142.68.35.41,Mobile,Safari,None,Password,8
+2025-08-06 01:38:32,24c618ca-eb31-4860-8446-aea042c69e25,194.2.226.111,PC,Firefox,Token Expired,Biometric,4
+2025-04-02 13:19:28,3c1f45d3-2bc1-4cbd-9992-572a35918f00,202.139.156.58,Mobile,Chrome,Token Expired,Biometric,6
+2025-06-29 20:15:02,566010f8-0ad0-4e4d-9358-4d6d2d64f84e,153.252.250.66,Mobile,Opera,Account Locked,Password,0
+2025-12-30 00:45:01,9433ee65-8118-4078-8bc5-3aa7e89ff4c6,154.133.213.169,Mobile,Chrome,Token Expired,Password,1
+2025-12-02 18:31:08,944cad25-c951-4cfa-b6a3-5444f3902d49,106.133.162.225,Mobile,Safari,Password Incorrect,Token,1
+2025-12-14 08:16:23,223d8cda-3e92-42ca-84a7-e51cc51320f3,205.187.214.52,Mobile,Firefox,None,Token,5
+2025-08-27 10:37:59,86da2b3e-970c-4c9f-8bac-326f50816e1b,184.163.42.98,Tablet,Edge,Account Locked,Password,2
+2025-05-10 04:42:49,8a1cd8db-7fb6-4faa-8c5b-d3de85d9d0fd,169.223.160.79,Tablet,Firefox,Password Incorrect,Token,2
+2025-10-03 02:59:03,3aeff350-c0cc-4357-b409-a6be968de087,208.135.253.160,Tablet,Chrome,Account Locked,Token,9
+2025-07-19 09:52:24,0f214872-6646-4795-b5a4-b3cc01432b78,222.119.95.117,Mobile,Opera,Token Expired,Token,0
+2025-10-11 05:57:38,e8e07915-9006-4e0d-a01d-989193703450,35.203.56.87,Tablet,Firefox,None,Password,5
+2025-04-26 07:40:01,3bf84078-90bb-442f-8e17-e433922e3b63,21.102.32.255,Tablet,Edge,Password Incorrect,Biometric,2
+2025-07-04 04:33:11,6a1d3173-c837-4230-9539-b9427318547d,126.155.122.145,Tablet,Opera,Account Locked,Biometric,3
+2025-05-03 04:57:42,d5cc917f-c75a-4e77-a966-13e83cffafcc,205.154.120.98,Tablet,Opera,None,Token,10
+2025-11-23 18:53:03,d2442b62-6b4c-4c6d-b6d9-554314cab279,27.125.239.109,PC,Opera,Password Incorrect,Password,6
+2025-07-28 11:34:41,f054c36c-a341-48f9-8938-6e4637aa4a10,168.1.65.73,Tablet,Chrome,Password Incorrect,Biometric,4
+2025-04-12 01:07:02,1f161b9c-c90a-416b-8492-c8975df151ec,210.201.152.145,Mobile,Safari,Token Expired,Password,9
+2025-12-27 12:49:05,c37c81a8-bf2a-433c-b26e-2fe29bcf9573,205.199.116.48,Tablet,Firefox,Token Expired,Password,9
+2025-04-19 14:52:15,452eb276-0da0-432a-80f9-ede17e87c1b8,176.2.231.215,Tablet,Edge,None,Password,1
+2025-07-13 17:26:47,be8b0658-7467-491b-8304-6b179da33a0a,219.220.10.89,Tablet,Opera,None,Token,9
+2025-05-18 21:34:17,d0d8f8dc-121f-4485-afc7-5f963736f70b,165.186.47.145,PC,Opera,Token Expired,Token,4
+2025-05-25 16:41:24,cdb885aa-707b-46d9-9955-8192dc098581,131.241.129.252,Mobile,Edge,Token Expired,Token,2
+2025-04-09 12:27:01,410728b0-8683-4e81-a56e-db7851b94a39,221.159.125.239,Mobile,Firefox,Token Expired,Password,10
+2025-05-08 22:22:54,036caca7-c1aa-4d75-a76c-1a6814903f74,173.123.232.147,Tablet,Firefox,Account Locked,Password,2
+2025-10-25 09:26:51,c38e1fcc-311d-4cd5-875a-e55dea8b72be,20.72.14.222,PC,Chrome,None,Token,3
+2025-10-24 22:46:42,6407d7d2-1530-4352-98d3-4c9cb3745e72,209.74.228.196,Mobile,Firefox,None,Password,0
+2025-05-19 18:50:39,56cc0468-ca72-4f1f-b899-51090f433135,212.86.157.129,Mobile,Opera,None,Token,8
+2025-05-06 10:04:55,1949bcad-4ef4-4dba-999d-b7000dc9f22d,113.85.238.186,Tablet,Opera,None,Token,7
+2025-04-29 04:45:02,d387de78-65e1-4542-8d42-37041c656f4a,176.239.244.42,Tablet,Chrome,None,Password,4
+2025-08-27 21:50:25,9237c1a3-fb91-4f9d-b45d-3bbe7e42fe8f,78.140.10.2,Mobile,Opera,None,Biometric,6
+2026-01-29 18:12:17,9f39164a-6a67-489a-bd96-8901f65f9476,192.203.198.118,Tablet,Safari,Password Incorrect,Password,7
+2025-09-11 00:12:06,197fc8fe-f1ec-4b3b-bf08-70fb3ca4b198,190.195.153.153,Mobile,Safari,Account Locked,Password,1
+2025-12-20 03:48:54,542340d3-9ca0-4ef9-813b-cf4e1089eb46,116.167.186.79,Tablet,Edge,Account Locked,Token,9
+2025-04-08 18:36:59,1ea056d6-d4d8-482b-a886-f4684a816abd,115.21.55.162,Mobile,Edge,None,Biometric,7
+2026-01-24 21:54:36,fbd7433a-c3d2-4ce2-9071-89f046e3d98e,187.188.62.150,Tablet,Chrome,Token Expired,Biometric,8
+2025-09-06 13:54:54,4dde2d07-fce9-4157-9a86-42a3a64b6590,170.62.126.59,Mobile,Firefox,Password Incorrect,Biometric,7
+2025-11-01 19:59:14,644c3df4-d509-4692-a236-e45a01fd66c1,193.44.28.61,PC,Safari,Token Expired,Biometric,0
+2025-03-01 21:02:59,f1087ac7-7ddf-4dca-9e28-0bfee70fbbfc,43.94.29.232,Mobile,Opera,None,Password,8
+2025-06-04 21:52:54,e4ecb687-3915-4488-926b-779ddffee708,104.68.152.137,Tablet,Safari,Account Locked,Token,1
+2025-05-16 23:59:04,6f8ccafe-f918-4f82-9e1d-2436a0e9fc52,208.218.71.141,Tablet,Chrome,Account Locked,Token,7
+2025-05-19 19:07:54,2df6f727-cd2f-4c2e-936e-962990f965e4,172.174.131.177,Mobile,Opera,None,Biometric,6
+2025-05-20 12:32:35,5f8aaddd-edf1-49d9-9e1a-e30cc1bb92e7,139.22.56.45,Tablet,Edge,None,Biometric,0
+2025-11-11 03:01:29,5bf84693-4e80-4d4c-8f58-c489651092e6,158.18.39.249,PC,Chrome,None,Password,2
+2026-02-03 23:58:25,4c7fe6f2-48e2-4e61-ab90-b3a810725ff3,201.122.48.158,Mobile,Safari,None,Token,6
+2025-08-30 05:09:59,bf068065-205a-4bd9-ba79-6844ff1d34b9,213.99.61.171,Tablet,Edge,None,Password,10
+2025-07-22 19:00:03,1831fe22-e9fc-40ea-ae0a-0032a645a2b0,87.45.37.173,Mobile,Firefox,Token Expired,Password,6
+2025-06-09 02:10:04,7e021ae1-28b8-4dd8-b961-9b8b51eaeae8,218.11.91.91,Tablet,Safari,None,Token,6
+2025-07-11 23:07:33,a0de386f-eec9-4d70-878a-94418eaccb45,161.12.60.56,PC,Chrome,None,Token,1
+2025-06-05 14:59:15,6469fe96-35b2-4caf-9b88-7f4e4bc5ca08,30.202.149.225,PC,Opera,None,Token,9
+2025-02-19 02:42:06,266ce8a2-e21e-4f53-8f3a-febc77345f85,121.90.27.165,PC,Chrome,None,Biometric,0
+2026-01-07 01:05:02,a550dbbb-086f-4795-9fbe-5c6cf43fe217,86.1.98.204,Mobile,Firefox,None,Biometric,5
+2025-09-19 00:31:52,fa229239-e67b-4845-ab55-e1bf80333288,220.52.215.43,PC,Opera,None,Biometric,10
+2025-10-04 05:25:16,085adc02-2b1b-401b-ace1-8d3193d50087,217.107.228.252,Tablet,Edge,Account Locked,Token,6
+2026-01-26 10:55:34,1d6f9c07-4442-4a8f-977c-ec23b47cd0c2,90.69.110.10,Tablet,Opera,None,Token,5
+2025-03-27 06:05:31,1533b6cc-f892-4d9a-b9ad-2a978dd271bd,135.54.250.141,Tablet,Chrome,Account Locked,Password,6
+2026-02-08 00:39:20,35959666-0c43-4da6-be43-451fb8808f82,140.206.141.232,Mobile,Safari,Account Locked,Biometric,10
+2025-11-02 04:33:01,75326ddb-02f0-4460-a019-2a7c0c22bc12,158.169.175.135,Tablet,Edge,Account Locked,Token,6
+2025-03-11 13:27:41,056f7e07-8d56-4e7c-ae76-7eaea2d8f433,211.20.67.214,Mobile,Opera,None,Biometric,3
+2025-07-30 15:11:19,eb88dd9d-b74c-43c4-93d4-77a6aef9801a,142.156.59.126,PC,Edge,Token Expired,Password,3
+2025-10-07 17:07:22,0cc8ffd7-b392-48e1-b1e0-cc40b96e6343,193.214.236.187,Tablet,Safari,Password Incorrect,Password,2
+2025-02-27 17:50:31,97195c68-211c-4d63-aa63-d4602624f418,187.52.76.89,PC,Chrome,None,Biometric,10
+2025-05-09 14:54:19,46c5172d-ecb4-4093-bff4-65761a5941de,100.206.177.125,Tablet,Safari,None,Biometric,3
+2025-08-19 16:09:34,180a0285-5762-47b1-8b5c-f15513df7460,151.177.57.54,Tablet,Chrome,None,Password,9
+2025-04-16 18:01:25,741c6596-ee4d-447e-ac1a-cdbcd43bfeb1,204.158.183.236,Tablet,Edge,None,Token,8
+2025-09-14 18:59:10,ded33f76-b5b8-4078-8be1-a2f25db04c20,48.239.82.11,Tablet,Safari,None,Password,6
+2025-05-29 00:50:18,714f30ec-2b00-4096-a069-72ea083f52aa,209.33.131.77,Tablet,Firefox,None,Token,3
+2025-11-01 07:00:18,597ddde7-26d4-49ad-af07-58deb5514bd2,32.102.49.147,PC,Opera,Account Locked,Token,8
+2025-11-19 02:11:59,0ba210ad-f35d-419b-bb8f-e29238cf6cb4,56.62.137.135,Tablet,Chrome,Account Locked,Token,7
+2025-07-08 07:50:11,c9d1de5a-70e9-4185-8857-897f94262968,136.57.1.191,Tablet,Opera,Password Incorrect,Biometric,4
+2025-10-10 00:00:36,cef16af5-ba3e-4dd3-b99f-86ad927d342b,152.78.117.189,PC,Opera,None,Token,6
+2025-10-29 10:00:47,f7647baa-cba7-4606-b0d0-e8a357a86ae1,176.20.239.242,PC,Edge,Token Expired,Token,6
+2026-02-03 00:36:59,c556f5e9-84aa-4dc4-ac0b-f215f1749e10,145.113.218.45,Mobile,Edge,None,Password,10
+2025-03-19 01:12:52,acc5975e-1bbd-4d3f-9167-6f9ec8f1ce96,201.48.179.27,PC,Edge,None,Password,9
+2025-09-25 03:30:49,eec610cb-94bd-425c-a954-bfeb5164d28d,160.181.167.142,Mobile,Safari,Token Expired,Token,10
+2025-06-29 12:16:03,7e95827b-f225-4599-b784-b2bf7faf33c3,222.11.147.10,Mobile,Opera,Token Expired,Biometric,8
+2025-08-06 11:56:57,dd2c83c7-7b30-4b76-b4dc-b593c9fac5d9,135.56.161.105,Tablet,Firefox,None,Token,6
+2026-01-27 16:31:50,7d049a68-3052-4fde-a68a-4d53108ed1e7,219.249.234.73,PC,Opera,Account Locked,Biometric,8
+2025-10-20 10:00:17,8bd8f857-99a9-4e9e-96d7-7bf668a0d4b6,207.90.219.183,PC,Safari,Token Expired,Password,6
+2025-02-20 08:23:26,7bdef236-cad0-4341-b60c-36a8f81d02a5,216.22.47.135,PC,Chrome,Account Locked,Biometric,5
+2025-05-08 16:49:59,c2aefd71-bfe9-4056-bd0e-3d3ee9e6f8f6,82.64.233.41,Tablet,Edge,None,Password,3
+2025-07-21 10:27:54,07dd4986-99fa-43f8-8c8e-617644d85f34,211.0.157.72,Mobile,Safari,Account Locked,Password,9
+2025-09-22 08:36:06,0694028d-1064-40c4-be88-83ada0db2d0d,219.227.136.101,PC,Edge,None,Token,0
+2025-11-20 12:02:08,292eeb9f-bb71-4430-91a3-b64c6274223c,134.125.243.6,PC,Firefox,Token Expired,Password,10
+2026-02-07 11:12:09,9c3ee1c8-0464-4169-a6b4-89e8e61ced3b,6.105.190.53,Mobile,Chrome,None,Password,6
+2026-02-14 02:58:03,132001e1-32e7-4e7d-a79e-0cf189db20c4,159.51.249.57,PC,Firefox,Password Incorrect,Biometric,8
+2025-07-11 10:15:09,19682fe7-af10-442c-bf10-8752aba95577,15.96.106.154,Mobile,Safari,None,Biometric,5
+2025-03-27 00:41:11,e89f2596-77b0-459d-ac12-7f89d8de4abe,209.140.108.33,Tablet,Opera,Account Locked,Biometric,2
+2026-01-15 17:24:41,3287a209-1ede-436f-9bed-714d56728959,171.222.12.63,PC,Safari,None,Biometric,4
+2025-03-30 21:32:42,459e9aa2-4748-428c-9dd8-1e7e56f366ba,36.149.215.217,Tablet,Chrome,None,Biometric,10
+2025-02-23 13:00:23,2a6bafe1-cdbb-40b8-b928-c8aa266d2b45,1.117.154.232,Tablet,Edge,None,Biometric,8
+2025-04-03 02:03:27,43f87eb7-dfaa-42d2-92e7-198ef97be769,121.107.237.198,PC,Firefox,None,Password,7
+2025-04-12 08:52:26,256986ee-0625-4df0-9d36-f284d7e84580,92.86.249.189,Tablet,Opera,None,Biometric,7
+2025-08-08 17:51:27,c8f63500-b0d7-4d47-9189-9db03a4f3c24,145.233.76.204,Tablet,Safari,None,Biometric,0
+2025-06-20 12:25:21,6ef16204-4de3-4cd7-b7fb-7029ac21e627,182.217.83.136,Mobile,Safari,Account Locked,Password,10
