@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Risk Analysis Result</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
+overflow:hidden;
+}
+
+body::before{
+content:"";
+position:absolute;
+width:500px;
+height:500px;
+background:#60a5fa;
+border-radius:50%;
+top:-150px;
+left:-120px;
+filter:blur(100px);
+opacity:.4;
+}
+
+body::after{
+content:"";
+position:absolute;
+width:450px;
+height:450px;
+background:#3b82f6;
+border-radius:50%;
+bottom:-150px;
+right:-100px;
+filter:blur(100px);
+opacity:.4;
+}
+
+.container{
+position:relative;
+z-index:10;
+width:600px;
+background:rgba(255,255,255,.12);
+backdrop-filter:blur(18px);
+border:1px solid rgba(255,255,255,.2);
+padding:45px;
+border-radius:25px;
+text-align:center;
+box-shadow:0 15px 40px rgba(0,0,0,.35);
+color:white;
+}
+
+.logo{
+font-size:55px;
+margin-bottom:15px;
+}
+
+h1{
+font-size:34px;
+margin-bottom:10px;
+}
+
+.subtitle{
+font-size:16px;
+color:#dbeafe;
+margin-bottom:35px;
+}
+
+.result-card{
+background:white;
+border-radius:18px;
+padding:35px;
+margin-bottom:30px;
+box-shadow:0 10px 25px rgba(0,0,0,.2);
+}
+
+.result{
+font-size:30px;
+font-weight:700;
+}
+
+.low{
+color:#16a34a;
+}
+
+.medium{
+color:#f59e0b;
+}
+
+.high{
+color:#dc2626;
+}
+
+.status{
+margin-top:20px;
+font-size:17px;
+color:#444;
+line-height:28px;
+}
+
+.btn{
+display:inline-block;
+padding:15px 35px;
+background:#2563eb;
+color:white;
+text-decoration:none;
+font-size:18px;
+border-radius:12px;
+transition:.3s;
+font-weight:600;
+}
+
+.btn:hover{
+background:#1d4ed8;
+transform:scale(1.05);
+}
+
+.footer{
+margin-top:30px;
+font-size:14px;
+color:#dbeafe;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="logo">🏦</div>
+
+<h1>Adaptive Risk Authentication</h1>
+
+<p class="subtitle">
+Secure Banking Login using Machine Learning
+</p>
+
+<div class="result-card">
+
+{% if "Low" in prediction %}
+<div class="result low">{{ prediction }}</div>
+{% elif "Medium" in prediction %}
+<div class="result medium">{{ prediction }}</div>
+{% else %}
+<div class="result high">{{ prediction }}</div>
+{% endif %}
+
+<div class="status">
+
+✅ Login behaviour successfully analyzed.<br><br>
+
+The Machine Learning model evaluated the login parameters and generated the above risk level.
+
+</div>
+
+</div>
+
+<a href="/" class="btn">
+🔄 Analyze Another Login
+</a>
+
+<div class="footer">
+
+Machine Learning Based Banking Security System
+
+</div>
+
+</div>
+
+</body>
+</html>
